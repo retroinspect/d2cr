@@ -1,0 +1,9 @@
+[submodule "d2cr-client"]
+	path = d2cr-client
+	url = https://github.com/cs496-week4/d2cr-client
+[submodule "d2cr-web"]
+	path = d2cr-web
+	url = https://github.com/cs496-week4/d2cr-web
+[submodule "d2cr-server"]
+	path = d2cr-server
+	url = https://github.com/cs496-week4/d2cr-server
